@@ -3,4 +3,4 @@ My research process is fueled by a constant stream of ideas 😊 . Naturally, ma
 
 That’s why I’ve decided to start sharing most of these early-stage thoughts more openly. Perhaps a raw idea that didn't make the cut for me will spark inspiration for you and grow into something amazing.
 
-[Preliminary Research Idea (1): Employing Reversible Dirichlet Processes for Diffusion-Model-Like Tasks](files/)
+[Preliminary Research Idea (1): Employing Reversible Dirichlet Processes for Diffusion-Model-Like Tasks](files/research_idea_1.pdf)
