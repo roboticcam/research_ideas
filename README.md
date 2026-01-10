@@ -12,3 +12,5 @@ That’s why I’ve decided to start sharing most of these early-stage thoughts 
 [Idea (4): Optimizing Attention Heads Using Determinantal Point Process](files/research_idea_4.pdf)
 
 [Idea (5): HDP-Attention: Mimicking Human Hierarchical Memory for Efficient Long-Context Large Language Models](files/research_idea_5.pdf)
+
+[Idea (6): Correlated Sampling from Multiple Softmax Distributions Using Gumbel-Max Trick and Copulas](files/research_idea_6.pdf)
