@@ -26,3 +26,5 @@ That’s why I’ve decided to start sharing most of these early-stage thoughts 
 [Idea (11): Swin Transformer with Semantic Boundary Adherence using Swendsen-Wang Sampling](files/research_idea_11.pdf)
 
 [Idea (12): Multimodal Attention Consistency](files/research_idea_12.pdf)
+
+[Idea (13): Using Diffusion Repainting Mechanism to Achieve Cross-Domain Thinking in Image and Text Watermarking](files/research_idea_13.pdf)
