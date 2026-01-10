@@ -10,3 +10,5 @@ That’s why I’ve decided to start sharing most of these early-stage thoughts 
 [Idea (3): Reducing Steps in Diffusion Models](files/research_idea_3.pdf)
 
 [Idea (4): Optimizing Attention Heads Using Determinantal Point Process](files/research_idea_4.pdf)
+
+[Idea (5): HDP-Attention: Mimicking Human Hierarchical Memory for Efficient Long-Context Large Language Models](files/research_idea_5.pdf)
