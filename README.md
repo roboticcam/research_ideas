@@ -8,3 +8,5 @@ That’s why I’ve decided to start sharing most of these early-stage thoughts 
 [Idea (2): Combining Markov Chain Monte Carlo and Generative Modeling](files/research_idea_2.pdf)
 
 [Idea (3): Reducing Steps in Diffusion Models](files/research_idea_3.pdf)
+
+[Idea (4): Optimizing Attention Heads Using Determinantal Point Process](files/research_idea_4.pdf)
