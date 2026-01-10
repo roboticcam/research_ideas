@@ -6,3 +6,5 @@ That’s why I’ve decided to start sharing most of these early-stage thoughts 
 [Idea (1): Employing Reversible Dirichlet Processes for Diffusion-Model-Like Tasks](files/research_idea_1.pdf)
 
 [Idea (2): Combining Markov Chain Monte Carlo and Generative Modeling](files/research_idea_2.pdf)
+
+[Idea (3): Reducing Steps in Diffusion Models](files/research_idea_3.pdf)
