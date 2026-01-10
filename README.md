@@ -20,3 +20,5 @@ That’s why I’ve decided to start sharing most of these early-stage thoughts 
 [Idea (8): Particle Transformer](files/research_idea_8.pdf)
 
 [Idea (9): NNGP, Transformer and Dirichlet Process Combination](files/research_idea_9.pdf)
+
+[Idea (10): Dirichlet Process (plus Gaussian Process) for combining Flow Matching](files/research_idea_10.pdf)
