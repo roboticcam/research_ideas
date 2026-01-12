@@ -28,3 +28,5 @@ That’s why I’ve decided to start sharing most of these early-stage thoughts 
 [Idea (12): Multimodal Attention Consistency](files/research_idea_12.pdf)
 
 [Idea (13): Using Diffusion Repainting Mechanism to Achieve Cross-Domain Thinking in Image and Text Watermarking](files/research_idea_13.pdf)
+
+[Idea (14): Breaking Boundaries: On the Synchronous Mixing of ``Inter-Head'' and ``Intra-Head'' Information in Multi-Head Attention Mechanisms](files/research_idea_14.pdf)
